@@ -210,7 +210,7 @@
     <ClInclude Include="libgnuintl.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\libiconv-1.14\libiconv.vcxproj">
+    <ProjectReference Include="..\libiconv-1.14\libiconv-vs14.vcxproj">
       <Project>{7ea4ec62-ea19-4acc-86e2-0513e381292b}</Project>
     </ProjectReference>
   </ItemGroup>
